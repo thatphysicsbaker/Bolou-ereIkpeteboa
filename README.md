@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thatphysicsbaker
+- 👋 Hi, I’m Bolou-ere Ikpeteboa
 - 👀 I’m interested in ...Mobile development
 - 🌱 I’m currently learning ... SWD
 - 💞️ I’m looking to collaborate on ... SWd/SWE
